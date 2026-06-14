@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Janice Oliveira and I'm a Front-end Developer, from Portugal.</h2>
 <p align="left">
-  <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+  <a href="https://https://www.youtube.com/@Miauverso_Oficial">
     <img
       alt="youtube subscribers"
       title="Subscribe to my YouTube channel"
