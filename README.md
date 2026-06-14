@@ -97,6 +97,6 @@
 <img src="https://raw.githubusercontent.com/JaniceOL/JaniceOL/output/snake.svg" alt="Snake animation" />
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janice589&show_icons=true&bg_color=00000000)
 
 
